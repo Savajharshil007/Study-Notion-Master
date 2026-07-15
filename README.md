@@ -4,7 +4,6 @@ Study Notion is an ED Tech (Education Technology) web application developed usin
 
 ## Live Project Links
 * **Frontend Application:** [https://study-notion-master-six.vercel.app](https://study-notion-master-six.vercel.app)
-* **Backend API Server:** [https://study-notion-master-5i3l.onrender.com](https://study-notion-master-5i3l.onrender.com)
 
 ## Note
 
